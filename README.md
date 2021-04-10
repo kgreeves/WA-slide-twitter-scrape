@@ -1,6 +1,7 @@
 # WA-slide-twitter-scrape
 Python web scraping of Twitter to identify current and historical landslide activity in WA.
 
+Introdution to GIT
 
 #Set Up Virtual Environment
 pipenv install tweepy --python 3.8
